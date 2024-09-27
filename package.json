@@ -1,0 +1,16 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "tester",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tester",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^3.0.1",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
